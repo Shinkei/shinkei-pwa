@@ -1,6 +1,7 @@
 {
   "name": "Shinkei NoteTaker PWA",
   "short_name": "Shinkeipad",
+  "description": "lets you add notes",
   "start_url": "./",
   "orientation": "portrait",
   "theme_color": "#ffc252",
